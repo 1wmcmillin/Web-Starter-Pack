@@ -10,11 +10,34 @@ body{
     color: grey;
 }
 #c1footer{
+    width: 500px;
+    height: 300px;
+    color: black;
     
 }
 
 
-/*CLASSES in css begin with a dot*/
-.classname{
 
+/*CLASSES in css begin with a dot*/
+
+
+.classheight{
+    height: 100px;
+
+}
+.classwidth{
+    height: 200px;
+
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue
+}
+.yellow{
+    background-color: yellow
+}
+.yellowgreen{
+    background-color: yellowgreen
 }
