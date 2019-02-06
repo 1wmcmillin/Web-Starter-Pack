@@ -7,14 +7,15 @@ body{
 #c1header{
     width: 500px;
     height: 300px;
-    color: grey;
+    background-color: grey;
 }
 #c1footer{
     width: 500px;
     height: 300px;
-    color: black;
+    background-color: black;
     
 }
+
 
 
 
@@ -29,15 +30,18 @@ body{
     height: 200px;
 
 }
-.red{
+.classred{
     background-color: red;
 }
-.blue{
-    background-color: blue
+.classblue{
+    background-color: blue;
 }
-.yellow{
-    background-color: yellow
+.classyellow{
+    background-color: yellow;
 }
-.yellowgreen{
-    background-color: yellowgreen
+.classyellowgreen{
+    background-color: yellowgreen;
+}
+.classpink{
+    background-color: pink;
 }
