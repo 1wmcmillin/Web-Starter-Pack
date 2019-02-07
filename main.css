@@ -9,11 +9,44 @@ body{
     height: 300px;
     background-color: grey;
 }
+#c1s1{
+    height: 100px;
+    width:500px;
+    background-color: pink;
+}
+#c1s2{
+    height: 100px;
+    width: 500px;
+    background-color: yellowgreen;
+
+}
+#c1s3{
+    height: 100px;
+    width: 500px;
+    background-color: maroon;
+}
+
 #c1footer{
     width: 500px;
     height: 300px;
     background-color: black;
     
+}
+#c2header{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+}
+
+
+
+
+
+
+#c2footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
 }
 
 
@@ -21,27 +54,3 @@ body{
 
 /*CLASSES in css begin with a dot*/
 
-
-.classheight{
-    height: 100px;
-
-}
-.classwidth{
-    height: 200px;
-
-}
-.classred{
-    background-color: red;
-}
-.classblue{
-    background-color: blue;
-}
-.classyellow{
-    background-color: yellow;
-}
-.classyellowgreen{
-    background-color: yellowgreen;
-}
-.classpink{
-    background-color: pink;
-}
