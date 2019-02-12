@@ -8,6 +8,7 @@ body{
     width: 500px;
     height: 300px;
     background-color: grey;
+    
 }
 #c1s1{
     height: 100px;
@@ -34,7 +35,13 @@ body{
 }
 
 
+#c2header{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+    float: left;
 
+}
 
 
 
@@ -42,6 +49,7 @@ body{
     width: 100%;
     height: 100px;
     background-color: black;
+    float: left;
 }
 
 
@@ -61,16 +69,27 @@ body{
 }
 .fifty{
     width: 50%;
+    float: left;
 }
 #twenty-five{
     width: 25%;
+    float: left;
 }
 #seventy-five{
-    width: 75%
+    width: 75%;
+    float: left;
 }
 #sixty-six{
     width: 66.66%;
+    float: left;
 }
 #thirty-three{
     width: 33.33%;
+    float: left;
+}
+.c3margin{
+    margin: 0;
+}
+.c3imgWidth{
+    width: 400px;
 }
