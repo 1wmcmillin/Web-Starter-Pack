@@ -52,7 +52,12 @@ body{
     float: left;
 }
 
-
+.c3article{
+    width: 400px;
+    padding: 8px;
+    border: 8px solid black;
+    border-radius: 4px;
+}
 
 
 /*CLASSES in css begin with a dot*/
@@ -88,8 +93,9 @@ body{
     float: left;
 }
 .c3margin{
-    margin: 0;
+    margin: 10px;
 }
 .c3imgWidth{
     width: 400px;
 }
+
